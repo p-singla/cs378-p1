@@ -1,0 +1,63 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .subtitle {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #0d60a8;
+    font-family: 'Pacifico', cursive; /* Decorative font */
+  }
+  
+  .location {
+    font-size: 1rem;
+    color: #007bff;
+  }
+  
+  .logo {
+    max-width: 150px;
+    height: auto;
+  }
+  
+  .card-title {
+    font-size: 1.2rem;
+    font-weight: bold; /* Bold for titles */
+    margin-bottom: 0.5rem;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    font-weight: normal; /* Regular for descriptions */
+    color: #6c757d;
+  }
+  
+  .price {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #28a745;
+    margin-bottom: 1rem;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .btn-custom {
+    background-color: #007bff;
+    color: white;
+    border-radius: 50px; /* Round buttons */
+    font-weight: bold;
+  }
+  
+  .btn-custom:hover {
+    background-color: #0056b3;
+    color: white;
+  }
